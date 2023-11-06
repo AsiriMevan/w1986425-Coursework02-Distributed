@@ -1,0 +1,7 @@
+ds\cw\synchronization\DistributedLock.class
+ds\cw\synchronization\DistributedTx.class
+ds\cw\synchronization\DistributedTxCoordinator.class
+ds\cw\synchronization\ZooKeeperClient.class
+ds\cw\synchronization\DistributedTxParticipant.class
+ds\cw\synchronization\DistributedTxListener.class
+ds\cw\synchronization\DummyProcess.class

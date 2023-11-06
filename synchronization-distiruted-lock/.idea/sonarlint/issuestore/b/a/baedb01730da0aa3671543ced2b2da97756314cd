@@ -1,0 +1,13 @@
+
+D
+java:S2885"'Make "timeFormat" an instance variable.(ùÑèï8¨“Ù „1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ş‡„‹øÿÿÿÿ8¬“Ù „1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÌÆ¤8®“Ù „1
+{
+java:S2142'"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(»Çö¯8®“Ù „1
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(¼û£Ğ8°“Ù „1
+T	java:S106&"9Replace this use of System.out or System.err by a logger.(ĞİØ	8´“Ù „1
+U	java:S106("9Replace this use of System.out or System.err by a logger.(„¸‘ö8¶“Ù „1
+;
+java:S2119."Save and re-use this "Random".(¡Å”¦8¹“Ù „1
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(îíÒ¦8½“Ù „1

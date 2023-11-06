@@ -1,0 +1,68 @@
+
+b
+java:S1192¨"FDefine a constant instead of duplicating this literal "ORDER" 3 times.(‡Ö„Üşÿÿÿÿ
+g	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Ì´Å
+l	java:S117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êƒŒıÿÿÿÿ
+l	java:S117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ–¯øÿÿÿÿ
+l	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¨§ÿÿÿÿÿ
+l	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êƒŒıÿÿÿÿ
+l	java:S117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ–¯øÿÿÿÿ
+w
+java:S1488Â"`Immediately return this expression instead of assigning it to the temporary variable "response".(Ô‹Í„
+w
+java:S1488£"`Immediately return this expression instead of assigning it to the temporary variable "response".(¤¿î³
+X
+java:S4973Ÿ"<Strings and Boxed types should be compared using "equals()".(ÿ—ÆÒÿÿÿÿÿ
+X
+java:S4973¨"<Strings and Boxed types should be compared using "equals()".(‡Ö„Üşÿÿÿÿ
+X
+java:S4973­"<Strings and Boxed types should be compared using "equals()".(çå£âøÿÿÿÿ
+=
+java:S2885"'Make "timeFormat" an instance variable.(ùÑèï
+4
+java:S2119+"Save and re-use this "Random".(¡Å”¦
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(îíÒ¦
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(ÌÆ¤
+t
+java:S2142O"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(»Çö¯
+N	java:S106="9Replace this use of System.out or System.err by a logger.(®œû“
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(¼û£Ğ
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(ˆú´™
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(ôÀßÍ
+M	java:S106N"9Replace this use of System.out or System.err by a logger.(ĞİØ	
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(„¸‘ö
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(²„Ï¹
+Q	java:S125a"<This block of commented-out lines of code should be removed.(à»íÒ
+m
+java:S3776e"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÔŒ¦Îÿÿÿÿÿ
+U
+java:S1161e":Add the "@Override" annotation above this method signature(ÔŒ¦Îÿÿÿÿÿ
+t
+java:S2142x"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+N	java:S106o"9Replace this use of System.out or System.err by a logger.(İáâÛ
+S	java:S106r"9Replace this use of System.out or System.err by a logger.(ß÷úµÿÿÿÿÿ
+S	java:S106y"9Replace this use of System.out or System.err by a logger.(–‚ëÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ‚¾­øÿÿÿÿ
+C
+java:S1125ˆ"'Remove the unnecessary boolean literal.(óÇ‚¨üÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(ó ®Ó
+T	java:S106¡"9Replace this use of System.out or System.err by a logger.(Æ’ÊËıÿÿÿÿ
+O	java:S106ª"9Replace this use of System.out or System.err by a logger.(ìØ®¿
+T	java:S106±"9Replace this use of System.out or System.err by a logger.(¡”´œüÿÿÿÿ
+T	java:S106·"9Replace this use of System.out or System.err by a logger.(Ìß¦Äùÿÿÿÿ
+T	java:S106Ç"9Replace this use of System.out or System.err by a logger.(®ğ±äıÿÿÿÿ
+O	java:S106Ï"9Replace this use of System.out or System.err by a logger.(Äç«‚
+O	java:S106à"9Replace this use of System.out or System.err by a logger.(ˆ“Ê™
+n
+java:S3776ä"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ãü€úÿÿÿÿ
+u
+java:S2142ö"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+T	java:S106í"9Replace this use of System.out or System.err by a logger.(¢ƒ—“şÿÿÿÿ
+T	java:S106ğ"9Replace this use of System.out or System.err by a logger.(ß÷úµÿÿÿÿÿ
+T	java:S106÷"9Replace this use of System.out or System.err by a logger.(–‚ëÿÿÿÿÿ
+T	java:S106ı"9Replace this use of System.out or System.err by a logger.(Ÿ‚¾­øÿÿÿÿ
+>
+java:S1125†"'Remove the unnecessary boolean literal.(‰€Ö 
+T	java:S106˜"9Replace this use of System.out or System.err by a logger.(Ìß¦Äùÿÿÿÿ
+T	java:S106¨"9Replace this use of System.out or System.err by a logger.(®ğ±äıÿÿÿÿ
+O	java:S106°"9Replace this use of System.out or System.err by a logger.(Äç«‚

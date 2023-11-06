@@ -1,0 +1,8 @@
+
+~
+java:S1488"cImmediately return this expression instead of assigning it to the temporary variable "createdPath".(Õ¼¥øÿÿÿÿ
+š
+java:S1130"}Remove the declaration of thrown exception 'java.io.UnsupportedEncodingException', as it cannot be thrown from method's body.(Øá¢·8”Ô „1
+H
+java:S1172"2Remove this unused method parameter "shouldWatch".(Øá¢·
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×¼¦ˆıÿÿÿÿ8–Ô „1

@@ -1,0 +1,15 @@
+
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8…×˜«„1
+N	java:S106""9Replace this use of System.out or System.err by a logger.(Ï‡è‡
+A
+java:S1075%"&Remove this hard-coded path-delimiter.(çÍ©Äüÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ñé–ùÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(¡îæ´ùÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(•®è×ıÿÿÿÿ
+T	java:S1067"9Replace this use of System.out or System.err by a logger.(ÈÔÏo8ÖíêŠ„1
+s
+java:S32528"QUse static access with "ds.cw.synchronization.DistributedTx" for "GLOBAL_COMMIT".(í‡ éúÿÿÿÿ8×˜«„1
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(ºé‘‚8øëëŠ„1
+r
+java:S3252A"PUse static access with "ds.cw.synchronization.DistributedTx" for "GLOBAL_ABORT".(äùü»ıÿÿÿÿ8‘×˜«„1

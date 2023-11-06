@@ -1,0 +1,44 @@
+syntax = "proto3";
+option java_multiple_files = true;
+package ds.cw.grpc.generated;
+
+message CheckRetailShopItemStockRequest {
+  string lockName = 1;
+  int32 itemId = 2;
+}
+message CheckRetailShopItemStockResponse {
+  int32 itemStock = 1;
+}
+
+message SetRetailShopItemStockRequest {
+  string lockName = 1;
+  int32 itemId = 2;
+  int32 value = 3;
+  bool isSentByPrimary = 4;
+}
+message SetRetailShopItemStockResponse {
+  bool status = 1;
+}
+
+message OrderRetailShopItemRequest {
+  string lockName = 1;
+  int32 itemIdForOrder = 2;
+  int32 valueForOrder = 3;
+  bool isSentByPrimary = 4;
+}
+message OrderRetailShopItemResponse {
+  bool status = 1;
+  int32 itemId = 2;
+  int32 value = 3;
+}
+
+service RetailShopService {
+  //Check inventory stock available
+  rpc checkRetailShopItemStock(CheckRetailShopItemStockRequest) returns (CheckRetailShopItemStockResponse);
+
+  //Set inventory stock
+  rpc setRetailShopItemStock(SetRetailShopItemStockRequest) returns (SetRetailShopItemStockResponse);
+
+  //Order inventory item
+  rpc orderRetailShopItem(OrderRetailShopItemRequest) returns (OrderRetailShopItemResponse);
+}
